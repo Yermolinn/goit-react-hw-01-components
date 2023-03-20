@@ -20,7 +20,7 @@ export const Profile = ({
           width="240"
         />
         <p className={css.username}>{username}</p>
-        <p className={css.tag}>{tag}</p>
+        <p className={css.tag}>@{tag}</p>
         <p className={css.location}>{location}</p>
       </div>
 

@@ -1,0 +1,28 @@
+.transactionHistory {
+    background-color: rgb(224, 224, 224);
+    width: 600px;
+    margin: 0 auto;
+}
+
+
+.tabTitle {
+    background-color: rgb(23,176,203);
+    padding: 10px 20px;
+    text-align: center;
+}
+
+
+.tabText {
+    padding: 10px 5px;
+    text-align: center;
+}
+
+
+
+.tabLine:nth-child(odd) {
+    background-color: rgb(232, 238, 240);
+}
+
+.tabLine:nth-child(even) {
+    background-color: rgb(255,255,255);
+}
