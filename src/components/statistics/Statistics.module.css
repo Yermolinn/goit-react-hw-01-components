@@ -1,0 +1,43 @@
+.statistics {
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.statContainer {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+
+.text {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.statTitle {
+    padding: 10px 0;
+text-align: center;
+}
+
+.statList {
+display: flex;
+justify-content: space-between;
+}
+
+.statItem {
+padding: 10px 0;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.label {
+    font-size: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.percentage {
+    align-items: center;
+}
